@@ -1,4 +1,3 @@
-from secrets import choice
 import requests
 import threading
 import time
