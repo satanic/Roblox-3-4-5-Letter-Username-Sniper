@@ -22,6 +22,8 @@ Setup:
 
 Info:
 
-This Will Just Generate 5 Letter Usernames, Very Simple
 Server: https://discord.gg/PFg5EYq5Vb
+
 Dev: blob#0005
+
+if have any problem running program or want me add anything feel free to add my discord blob#0005
