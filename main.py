@@ -15,7 +15,7 @@ def sniper():
         r = requests.get(f"{url}{code}")
         r = str(r)
         if "200" in r:
-            print("Valid Username, " + code)
+            print("Valid Username/Banned, " + code)
             if save == "y":
                 file1 = open("valid_usernames.txt", "a")
                 file1.write(code + "\n")
