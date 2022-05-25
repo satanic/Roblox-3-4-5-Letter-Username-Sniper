@@ -1,4 +1,4 @@
-# Github-5-Letter-Username-Sniper
+# Github-3-4-5-Letter-Username-Sniper
 
 Setup:
 
